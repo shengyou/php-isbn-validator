@@ -1,0 +1,17 @@
+{
+    "name": "shengyou/php-isbn-validator",
+    "description": "a ISBN validator and converter library",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^8.1"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Shengyou Fan",
+            "email": "shengyoufan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
